@@ -2,7 +2,7 @@
 
 This in an introduction to PyTorch Geometric, the deep learning library for Graph Neural Networks, and to interpretability tools for analyzing the decision process of a GNN.
 
-Please, refer to [this]() notebbok.
+Please, refer to [this](https://nbviewer.org/github/FilippoMB/Tutorial_GNN_explainability/blob/main/tutorial.ipynb) notebook.
 
 ---
 The tutorial is based on the following libraries:
